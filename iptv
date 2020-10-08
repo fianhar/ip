@@ -7,8 +7,11 @@ http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" ,INDOSIAR 2
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
  
-#EXTINF:-1,SCTV Backup
-http://livestreaming-a.production.liputan6.static6.com/i/sctv_1@137582/index_360_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,SCTV 1
+http://202.80.222.171/000001/2/ch15010918464887721048/1001.m3u8?IASHttpSessionId=OTT21987201905040857049764703&ztecid=ch15010918464887721048&bandwidth=1100904&ispcode=1&timeformat=local&channel=ch15010918464887721048&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjUvMTAyNC5tM3U4&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SCTV 2
+http://id2.indostreamingtv.com/live/tv2/index.m3u8
+ 
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/XvCWDbhs/sctv.png",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
