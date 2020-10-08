@@ -12,6 +12,12 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
  
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/XvCWDbhs/sctv.png",SCTV 2
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL",SCTV
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+
+#EXTINF:-1 group-title="LOKAL",SCTV HD
+http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
  
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://devanyahya.web.id/rctilogo.png",RCTI
 https://etslive-2-vidio-com.akamaized.net/exp=1585429350~acl=/hls-b/ingest_665_*/*~hmac=f8c8918ef9648df60402509898dc98039829f835a39ee29dce043b1a9be01011/hls-b/ingest_665_720p/index.m3u8
