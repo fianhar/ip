@@ -220,7 +220,44 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8 
 #EXTINF:-1 group-title="TV",iptvtools_379
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="TV",iptvtools_380
+
+#EXTINF:-1 group-title=“TV”,iptvtools_1w
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_12
+http://36.89.47.217:11935/rrinet/live/index.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_22
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_24
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_27
+http://36.89.47.217:11935/rrinet/live/index.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_29
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_32
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_33
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_42
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_51
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_52
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_56
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f 
+#EXTINF:-1 group-title=“TV”,iptvtools_62
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_63
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_80
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_87
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8 
+#EXTINF:-1 group-title=“TV”,iptvtools_90
+http://188.35.9.5:10007/stolen/221v/parasite.install 
+#EXTINF:-1 group-title=“TV”,iptvtools_93
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS 
+#EXTINF:-1 group-title="TV",iptvtsls_381
 https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="TV",iptvtools_381
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
@@ -236,4 +273,3 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="TV",iptvtools_387
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="TV",iptvtools_390
